@@ -10,8 +10,11 @@ header {
     height: 80px;
     border-bottom: black solid 1px;
 }
-
+.logo {
+    display: flex;
+    align-items: center;
+}
 .logo span{
     color: mediumaquamarine;
-    text-align: center;
+
 }
